@@ -1,0 +1,4772 @@
+[
+  {
+    "id": 1,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "fragile",
+      "awkward",
+      "suitable",
+      "illegal"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 2,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"widespread\"",
+    "options": [
+      "silent",
+      "common",
+      "ancient",
+      "unique"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"widespread\" is closest to \"common\"."
+  },
+  {
+    "id": 3,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"anticipate\"",
+    "options": [
+      "repair",
+      "forget",
+      "divide",
+      "predict"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"anticipate\" is closest to \"predict\"."
+  },
+  {
+    "id": 4,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"anticipate\"",
+    "options": [
+      "predict",
+      "divide",
+      "forget",
+      "repair"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"anticipate\" is closest to \"predict\"."
+  },
+  {
+    "id": 5,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"widespread\"",
+    "options": [
+      "ancient",
+      "unique",
+      "silent",
+      "common"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"widespread\" is closest to \"common\"."
+  },
+  {
+    "id": 6,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"vital\"",
+    "options": [
+      "essential",
+      "rare",
+      "local",
+      "minor"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"vital\" is closest to \"essential\"."
+  },
+  {
+    "id": 7,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"maintain\"",
+    "options": [
+      "borrow",
+      "keep",
+      "guess",
+      "destroy"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"maintain\" is closest to \"keep\"."
+  },
+  {
+    "id": 8,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"avoid\"",
+    "options": [
+      "cause",
+      "prevent",
+      "permit",
+      "admire"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"avoid\" is closest to \"prevent\"."
+  },
+  {
+    "id": 9,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "fragile",
+      "suitable",
+      "illegal",
+      "awkward"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 10,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reinforce\"",
+    "options": [
+      "weaken",
+      "reject",
+      "erase",
+      "support"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"reinforce\" is closest to \"support\"."
+  },
+  {
+    "id": 11,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"decline\"",
+    "options": [
+      "increase",
+      "explain",
+      "refuse",
+      "build"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"decline\" is closest to \"refuse\"."
+  },
+  {
+    "id": 12,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "formal",
+      "distant",
+      "clear",
+      "random"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"obvious\" is closest to \"clear\"."
+  },
+  {
+    "id": 13,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"challenging\"",
+    "options": [
+      "rude",
+      "difficult",
+      "cheap",
+      "simple"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"challenging\" is closest to \"difficult\"."
+  },
+  {
+    "id": 14,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"avoid\"",
+    "options": [
+      "admire",
+      "permit",
+      "prevent",
+      "cause"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"avoid\" is closest to \"prevent\"."
+  },
+  {
+    "id": 15,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"anticipate\"",
+    "options": [
+      "divide",
+      "repair",
+      "predict",
+      "forget"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"anticipate\" is closest to \"predict\"."
+  },
+  {
+    "id": 16,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "harm",
+      "argue",
+      "hide",
+      "help"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 17,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reinforce\"",
+    "options": [
+      "weaken",
+      "erase",
+      "support",
+      "reject"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"reinforce\" is closest to \"support\"."
+  },
+  {
+    "id": 18,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"vital\"",
+    "options": [
+      "essential",
+      "rare",
+      "local",
+      "minor"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"vital\" is closest to \"essential\"."
+  },
+  {
+    "id": 19,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"rapid\"",
+    "options": [
+      "fast",
+      "weak",
+      "dirty",
+      "late"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"rapid\" is closest to \"fast\"."
+  },
+  {
+    "id": 20,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "clear",
+      "formal",
+      "random",
+      "distant"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"obvious\" is closest to \"clear\"."
+  },
+  {
+    "id": 21,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"enhance\"",
+    "options": [
+      "ignore",
+      "increase",
+      "reduce",
+      "delay"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"enhance\" is closest to \"increase\"."
+  },
+  {
+    "id": 22,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "argue",
+      "hide",
+      "help",
+      "harm"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 23,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"vital\"",
+    "options": [
+      "minor",
+      "essential",
+      "rare",
+      "local"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"vital\" is closest to \"essential\"."
+  },
+  {
+    "id": 24,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reinforce\"",
+    "options": [
+      "weaken",
+      "erase",
+      "support",
+      "reject"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"reinforce\" is closest to \"support\"."
+  },
+  {
+    "id": 25,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"avoid\"",
+    "options": [
+      "admire",
+      "cause",
+      "prevent",
+      "permit"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"avoid\" is closest to \"prevent\"."
+  },
+  {
+    "id": 26,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "harm",
+      "argue",
+      "hide",
+      "help"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 27,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"significant\"",
+    "options": [
+      "narrow",
+      "important",
+      "silent",
+      "temporary"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"significant\" is closest to \"important\"."
+  },
+  {
+    "id": 28,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"vital\"",
+    "options": [
+      "local",
+      "minor",
+      "essential",
+      "rare"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"vital\" is closest to \"essential\"."
+  },
+  {
+    "id": 29,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"enhance\"",
+    "options": [
+      "reduce",
+      "delay",
+      "increase",
+      "ignore"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"enhance\" is closest to \"increase\"."
+  },
+  {
+    "id": 30,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"widespread\"",
+    "options": [
+      "unique",
+      "common",
+      "ancient",
+      "silent"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"widespread\" is closest to \"common\"."
+  },
+  {
+    "id": 31,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"vital\"",
+    "options": [
+      "rare",
+      "local",
+      "essential",
+      "minor"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"vital\" is closest to \"essential\"."
+  },
+  {
+    "id": 32,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "illegal",
+      "fragile",
+      "suitable",
+      "awkward"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 33,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"assist\"",
+    "options": [
+      "help",
+      "argue",
+      "harm",
+      "hide"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"assist\" is closest to \"help\"."
+  },
+  {
+    "id": 34,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reinforce\"",
+    "options": [
+      "weaken",
+      "reject",
+      "erase",
+      "support"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"reinforce\" is closest to \"support\"."
+  },
+  {
+    "id": 35,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "illegal",
+      "suitable",
+      "awkward",
+      "fragile"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 36,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"maintain\"",
+    "options": [
+      "keep",
+      "guess",
+      "borrow",
+      "destroy"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"maintain\" is closest to \"keep\"."
+  },
+  {
+    "id": 37,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "awkward",
+      "illegal",
+      "fragile",
+      "suitable"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 38,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"diminish\"",
+    "options": [
+      "expand",
+      "celebrate",
+      "reduce",
+      "repeat"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"diminish\" is closest to \"reduce\"."
+  },
+  {
+    "id": 39,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"widespread\"",
+    "options": [
+      "common",
+      "ancient",
+      "silent",
+      "unique"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"widespread\" is closest to \"common\"."
+  },
+  {
+    "id": 40,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reluctant\"",
+    "options": [
+      "unwilling",
+      "certain",
+      "eager",
+      "relaxed"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"reluctant\" is closest to \"unwilling\"."
+  },
+  {
+    "id": 41,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"anticipate\"",
+    "options": [
+      "forget",
+      "repair",
+      "predict",
+      "divide"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"anticipate\" is closest to \"predict\"."
+  },
+  {
+    "id": 42,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"vital\"",
+    "options": [
+      "essential",
+      "rare",
+      "minor",
+      "local"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"vital\" is closest to \"essential\"."
+  },
+  {
+    "id": 43,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"decline\"",
+    "options": [
+      "increase",
+      "refuse",
+      "explain",
+      "build"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"decline\" is closest to \"refuse\"."
+  },
+  {
+    "id": 44,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reluctant\"",
+    "options": [
+      "relaxed",
+      "certain",
+      "unwilling",
+      "eager"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"reluctant\" is closest to \"unwilling\"."
+  },
+  {
+    "id": 45,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"refine\"",
+    "options": [
+      "improve",
+      "postpone",
+      "hide",
+      "damage"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"refine\" is closest to \"improve\"."
+  },
+  {
+    "id": 46,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "awkward",
+      "fragile",
+      "illegal",
+      "suitable"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 47,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"widespread\"",
+    "options": [
+      "common",
+      "ancient",
+      "silent",
+      "unique"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"widespread\" is closest to \"common\"."
+  },
+  {
+    "id": 48,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"diminish\"",
+    "options": [
+      "reduce",
+      "expand",
+      "repeat",
+      "celebrate"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"diminish\" is closest to \"reduce\"."
+  },
+  {
+    "id": 49,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"maintain\"",
+    "options": [
+      "destroy",
+      "keep",
+      "guess",
+      "borrow"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"maintain\" is closest to \"keep\"."
+  },
+  {
+    "id": 50,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"widespread\"",
+    "options": [
+      "common",
+      "silent",
+      "ancient",
+      "unique"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "\"widespread\" is closest to \"common\"."
+  },
+  {
+    "id": 51,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"avoid\"",
+    "options": [
+      "admire",
+      "cause",
+      "permit",
+      "prevent"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"avoid\" is closest to \"prevent\"."
+  },
+  {
+    "id": 52,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"avoid\"",
+    "options": [
+      "permit",
+      "admire",
+      "cause",
+      "prevent"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"avoid\" is closest to \"prevent\"."
+  },
+  {
+    "id": 53,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"diminish\"",
+    "options": [
+      "celebrate",
+      "reduce",
+      "repeat",
+      "expand"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"diminish\" is closest to \"reduce\"."
+  },
+  {
+    "id": 54,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "fragile",
+      "illegal",
+      "suitable",
+      "awkward"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 55,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"rapid\"",
+    "options": [
+      "late",
+      "dirty",
+      "weak",
+      "fast"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"rapid\" is closest to \"fast\"."
+  },
+  {
+    "id": 56,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"rapid\"",
+    "options": [
+      "weak",
+      "dirty",
+      "late",
+      "fast"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"rapid\" is closest to \"fast\"."
+  },
+  {
+    "id": 57,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"appropriate\"",
+    "options": [
+      "illegal",
+      "suitable",
+      "awkward",
+      "fragile"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"appropriate\" is closest to \"suitable\"."
+  },
+  {
+    "id": 58,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"reliable\"",
+    "options": [
+      "angry",
+      "similar",
+      "careless",
+      "dependable"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"reliable\" is closest to \"dependable\"."
+  },
+  {
+    "id": 59,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"avoid\"",
+    "options": [
+      "admire",
+      "prevent",
+      "permit",
+      "cause"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "\"avoid\" is closest to \"prevent\"."
+  },
+  {
+    "id": 60,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "synonym",
+    "prompt": "Choose the closest meaning to: \"refine\"",
+    "options": [
+      "damage",
+      "hide",
+      "postpone",
+      "improve"
+    ],
+    "correctIndex": 3,
+    "explanationShort": "\"refine\" is closest to \"improve\"."
+  },
+  {
+    "id": 61,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with a vowel sound → an."
+  },
+  {
+    "id": 62,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The meeting was canceled ___ the storm.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Because of + noun."
+  },
+  {
+    "id": 63,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 64,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 65,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 66,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with a vowel sound → an."
+  },
+  {
+    "id": 67,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 68,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with a vowel sound → an."
+  },
+  {
+    "id": 69,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "She is responsible ___ the final report.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "at"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Responsible for + noun."
+  },
+  {
+    "id": 70,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "By this time tomorrow, we ___ the project.",
+    "options": [
+      "finish",
+      "will finish",
+      "will have finished",
+      "finished"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "Future perfect for completion before a future time."
+  },
+  {
+    "id": 71,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ such a place.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 72,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 73,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 74,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 75,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Neither the teacher nor the students ___ late.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Verb agrees with the nearest subject (students → were)."
+  },
+  {
+    "id": 76,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The results were ___ than expected.",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "well"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Comparative: better."
+  },
+  {
+    "id": 77,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 78,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "She is responsible ___ the final report.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "at"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Responsible for + noun."
+  },
+  {
+    "id": 79,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 80,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 81,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "If I ___ enough time, I will help you.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "First conditional: If + present, will + base."
+  },
+  {
+    "id": 82,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 83,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The results were ___ than expected.",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "well"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Comparative: better."
+  },
+  {
+    "id": 84,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "She is responsible ___ the final report.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "at"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Responsible for + noun."
+  },
+  {
+    "id": 85,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "If I ___ enough time, I will help you.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "First conditional: If + present, will + base."
+  },
+  {
+    "id": 86,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things, use which/that."
+  },
+  {
+    "id": 87,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 88,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "How ___ information do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Information is uncountable → much."
+  },
+  {
+    "id": 89,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with a vowel sound → an."
+  },
+  {
+    "id": 90,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ such a place.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 91,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "By this time tomorrow, we ___ the project.",
+    "options": [
+      "finish",
+      "will finish",
+      "will have finished",
+      "finished"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "Future perfect for completion before a future time."
+  },
+  {
+    "id": 92,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "She is responsible ___ the final report.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "at"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Responsible for + noun."
+  },
+  {
+    "id": 93,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "How ___ information do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Information is uncountable → much."
+  },
+  {
+    "id": 94,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with a vowel sound → an."
+  },
+  {
+    "id": 95,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The meeting was canceled ___ the storm.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Because of + noun."
+  },
+  {
+    "id": 96,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The results were ___ than expected.",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "well"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Comparative: better."
+  },
+  {
+    "id": 97,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things, use which/that."
+  },
+  {
+    "id": 98,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Umbrella starts with a vowel sound → an."
+  },
+  {
+    "id": 99,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 100,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things, use which/that."
+  },
+  {
+    "id": 101,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The meeting was canceled ___ the storm.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Because of + noun."
+  },
+  {
+    "id": 102,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ such a place.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 103,
+    "section": "Grammar",
+    "difficulty": 4,
+    "skillTag": "grammar",
+    "prompt": "The book ___ I borrowed is excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "For things, use which/that."
+  },
+  {
+    "id": 104,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The results were ___ than expected.",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "well"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Comparative: better."
+  },
+  {
+    "id": 105,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "I prefer tea ___ coffee.",
+    "options": [
+      "to",
+      "than",
+      "with",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Prefer A to B."
+  },
+  {
+    "id": 106,
+    "section": "Grammar",
+    "difficulty": 2,
+    "skillTag": "grammar",
+    "prompt": "The meeting was canceled ___ the storm.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Because of + noun."
+  },
+  {
+    "id": 107,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "This is the first time I ___ such a place.",
+    "options": [
+      "visit",
+      "visited",
+      "have visited",
+      "had visited"
+    ],
+    "correctIndex": 2,
+    "explanationShort": "First time + present perfect."
+  },
+  {
+    "id": 108,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "You ___ wear a seatbelt. It's the law.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Must = obligation."
+  },
+  {
+    "id": 109,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "Hardly had he arrived ___ it started to rain.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Hardly...when."
+  },
+  {
+    "id": 110,
+    "section": "Grammar",
+    "difficulty": 3,
+    "skillTag": "grammar",
+    "prompt": "The student, along with his friends, ___ joining the club.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationShort": "Along with... does not change singular subject → is."
+  },
+  {
+    "id": 111,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was very hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain is the best inference."
+  },
+  {
+    "id": 112,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was very hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain is the best inference."
+  },
+  {
+    "id": 113,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 114,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was very hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain is the best inference."
+  },
+  {
+    "id": 115,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: What is the purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage explains cooling effects via shade and moisture."
+  },
+  {
+    "id": 116,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 117,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 118,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 119,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was very hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain is the best inference."
+  },
+  {
+    "id": 120,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: What is the purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage explains cooling effects via shade and moisture."
+  },
+  {
+    "id": 121,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 122,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 123,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was very hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain is the best inference."
+  },
+  {
+    "id": 124,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: What is the purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage explains cooling effects via shade and moisture."
+  },
+  {
+    "id": 125,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 126,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 127,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 128,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 129,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 130,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 131,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 132,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: What is the purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage explains cooling effects via shade and moisture."
+  },
+  {
+    "id": 133,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 134,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 135,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 136,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 137,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 138,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: What is the purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage explains cooling effects via shade and moisture."
+  },
+  {
+    "id": 139,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 140,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 141,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 142,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 143,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was very hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain is the best inference."
+  },
+  {
+    "id": 144,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 145,
+    "section": "Reading",
+    "difficulty": 4,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 146,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The streets were wet, and people carried umbrellas as they hurried into shops.\"\nQuestion: What can we infer?",
+    "options": [
+      "It probably rained",
+      "It was snowing heavily",
+      "It was very hot",
+      "There was a parade"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "Wet streets + umbrellas → rain is the best inference."
+  },
+  {
+    "id": 147,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: What is the purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage explains cooling effects via shade and moisture."
+  },
+  {
+    "id": 148,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Many cities are planting trees to lower temperatures. Trees provide shade and release moisture, which can cool nearby streets.\"\nQuestion: What is the purpose of planting trees?",
+    "options": [
+      "To reduce heat in cities",
+      "To block all sunlight",
+      "To increase traffic",
+      "To remove buildings"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage explains cooling effects via shade and moisture."
+  },
+  {
+    "id": 149,
+    "section": "Reading",
+    "difficulty": 3,
+    "skillTag": "reading",
+    "prompt": "Passage: \"The new library system reduced waiting times by automating checkouts and reminders. However, some users needed training to use the app.\"\nQuestion: Which statement is true?",
+    "options": [
+      "Waiting times decreased",
+      "All users disliked the app",
+      "Automation increased delays",
+      "Training was unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "It explicitly says reduced waiting times; training was needed."
+  },
+  {
+    "id": 150,
+    "section": "Reading",
+    "difficulty": 2,
+    "skillTag": "reading",
+    "prompt": "Passage: \"Regular exercise improves mood and sleep. It also supports heart health.\"\nQuestion: Main idea?",
+    "options": [
+      "Exercise has multiple health benefits",
+      "Sleep is unnecessary",
+      "Mood depends only on food",
+      "Heart health is unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationShort": "The passage lists several benefits → main idea is overall benefits."
+  },
+  {
+    "id": 151,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 152,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nRayan: Are we still meeting at the library today?\nAli: Yes, but let's start 30 minutes earlier because of the reservation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the reservation",
+      "Because the library is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the reservation."
+  },
+  {
+    "id": 153,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nKhalid: Are we still meeting at the campus today?\nMaha: Yes, but let's start 30 minutes earlier because of the presentation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the presentation",
+      "Because the campus is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the presentation."
+  },
+  {
+    "id": 154,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nStudent: I missed yesterday’s lecture.\nProfessor: The slides are online, and we’ll review key points on Friday.\n\nQuestion: What should the student do?",
+    "choices": [
+      "Check the slides online and attend Friday’s review.",
+      "Wait for next semester.",
+      "Ignore the lecture.",
+      "Skip Friday."
+    ],
+    "correctIndex": 0,
+    "explanation": "That's what professor suggests."
+  },
+  {
+    "id": 155,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 156,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nTeacher: The quiz starts at 10, but please arrive 15 minutes early.\nStudent: So I should be there by 9:45.\n\nQuestion: What time should the student arrive?",
+    "choices": [
+      "9:45",
+      "10:00",
+      "10:15",
+      "9:30"
+    ],
+    "correctIndex": 0,
+    "explanation": "15 minutes early -> 9:45."
+  },
+  {
+    "id": 157,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 158,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nHuda: Are we still meeting at the campus today?\nFahad: Yes, but let's start 30 minutes earlier because of the payment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the payment",
+      "Because the campus is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the payment."
+  },
+  {
+    "id": 159,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nLama: Are we still meeting at the restaurant today?\nNoor: Yes, but let's start 30 minutes earlier because of the payment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the payment",
+      "Because the restaurant is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the payment."
+  },
+  {
+    "id": 160,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 161,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nSara: Are we still meeting at the restaurant today?\nOmar: Yes, but let's start 30 minutes earlier because of the assignment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the assignment",
+      "Because the restaurant is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the assignment."
+  },
+  {
+    "id": 162,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nNoor: Are we still meeting at the airport today?\nKhalid: Yes, but let's start 30 minutes earlier because of the presentation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the presentation",
+      "Because the airport is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the presentation."
+  },
+  {
+    "id": 163,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMan: Did you finish the report?\nWoman: Not yet. I’ll send it before 6 p.m.\n\nQuestion: When will the woman send the report?",
+    "choices": [
+      "Before 6 p.m.",
+      "Tomorrow morning",
+      "At noon",
+      "After midnight"
+    ],
+    "correctIndex": 0,
+    "explanation": "She says she'll send it before 6 p.m."
+  },
+  {
+    "id": 164,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 165,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nTeacher: The quiz starts at 10, but please arrive 15 minutes early.\nStudent: So I should be there by 9:45.\n\nQuestion: What time should the student arrive?",
+    "choices": [
+      "9:45",
+      "10:00",
+      "10:15",
+      "9:30"
+    ],
+    "correctIndex": 0,
+    "explanation": "15 minutes early -> 9:45."
+  },
+  {
+    "id": 166,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMan: Did you finish the report?\nWoman: Not yet. I’ll send it before 6 p.m.\n\nQuestion: When will the woman send the report?",
+    "choices": [
+      "Before 6 p.m.",
+      "Tomorrow morning",
+      "At noon",
+      "After midnight"
+    ],
+    "correctIndex": 0,
+    "explanation": "She says she'll send it before 6 p.m."
+  },
+  {
+    "id": 167,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nHuda: Are we still meeting at the library today?\nNoor: Yes, but let's start 30 minutes earlier because of the payment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the payment",
+      "Because the library is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the payment."
+  },
+  {
+    "id": 168,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nSara: Are we still meeting at the meeting room today?\nFahad: Yes, but let's start 30 minutes earlier because of the assignment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the assignment",
+      "Because the meeting room is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the assignment."
+  },
+  {
+    "id": 169,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nOmar: Are we still meeting at the campus today?\nAli: Yes, but let's start 30 minutes earlier because of the project.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the project",
+      "Because the campus is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the project."
+  },
+  {
+    "id": 170,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nTeacher: The quiz starts at 10, but please arrive 15 minutes early.\nStudent: So I should be there by 9:45.\n\nQuestion: What time should the student arrive?",
+    "choices": [
+      "9:45",
+      "10:00",
+      "10:15",
+      "9:30"
+    ],
+    "correctIndex": 0,
+    "explanation": "15 minutes early -> 9:45."
+  },
+  {
+    "id": 171,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nKhalid: Are we still meeting at the library today?\nKhalid: Yes, but let's start 30 minutes earlier because of the presentation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the presentation",
+      "Because the library is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the presentation."
+  },
+  {
+    "id": 172,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nTeacher: The quiz starts at 10, but please arrive 15 minutes early.\nStudent: So I should be there by 9:45.\n\nQuestion: What time should the student arrive?",
+    "choices": [
+      "9:45",
+      "10:00",
+      "10:15",
+      "9:30"
+    ],
+    "correctIndex": 0,
+    "explanation": "15 minutes early -> 9:45."
+  },
+  {
+    "id": 173,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Did you finish the report?\nWoman: Not yet. I’ll send it before 6 p.m.\n\nQuestion: When will the woman send the report?",
+    "choices": [
+      "Before 6 p.m.",
+      "Tomorrow morning",
+      "At noon",
+      "After midnight"
+    ],
+    "correctIndex": 0,
+    "explanation": "She says she'll send it before 6 p.m."
+  },
+  {
+    "id": 174,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nSara: Are we still meeting at the office today?\nHuda: Yes, but let's start 30 minutes earlier because of the assignment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the assignment",
+      "Because the office is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the assignment."
+  },
+  {
+    "id": 175,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their mock tests often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 176,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nHuda: Are we still meeting at the lab today?\nNoor: Yes, but let's start 30 minutes earlier because of the exam.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the exam",
+      "Because the lab is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the exam."
+  },
+  {
+    "id": 177,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: The museum was closed due to maintenance, but it will reopen next week with a new exhibit.\n\nQuestion: What can be inferred?",
+    "choices": [
+      "Visitors can return next week to see a new exhibit.",
+      "The museum will close permanently.",
+      "The exhibit was canceled.",
+      "Maintenance will take months."
+    ],
+    "correctIndex": 0,
+    "explanation": "Reopen next week implies visitors can return then."
+  },
+  {
+    "id": 178,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nFahad: Are we still meeting at the campus today?\nHuda: Yes, but let's start 30 minutes earlier because of the presentation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the presentation",
+      "Because the campus is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the presentation."
+  },
+  {
+    "id": 179,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Some students learn vocabulary through context. Instead of memorizing lists, they notice how words are used in sentences.\n\nQuestion: The word 'context' is closest in meaning to:",
+    "choices": [
+      "situation",
+      "mistake",
+      "silence",
+      "request"
+    ],
+    "correctIndex": 0,
+    "explanation": "Context means the surrounding situation/words."
+  },
+  {
+    "id": 180,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 181,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their grammar review often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 182,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nLama: Are we still meeting at the lab today?\nNoor: Yes, but let's start 30 minutes earlier because of the materials.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the materials",
+      "Because the lab is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the materials."
+  },
+  {
+    "id": 183,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Sara practiced short reading passages every day. Over time, she became faster at finding key information.\n\nQuestion: What helped Sara improve?",
+    "choices": [
+      "Daily practice with short passages",
+      "Studying only grammar rules",
+      "Avoiding practice tests",
+      "Reading without a goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage directly mentions daily practice."
+  },
+  {
+    "id": 184,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMan: Did you finish the report?\nWoman: Not yet. I’ll send it before 6 p.m.\n\nQuestion: When will the woman send the report?",
+    "choices": [
+      "Before 6 p.m.",
+      "Tomorrow morning",
+      "At noon",
+      "After midnight"
+    ],
+    "correctIndex": 0,
+    "explanation": "She says she'll send it before 6 p.m."
+  },
+  {
+    "id": 185,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their practice often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 186,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nFahad: Are we still meeting at the office today?\nRayan: Yes, but let's start 30 minutes earlier because of the materials.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the materials",
+      "Because the office is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the materials."
+  },
+  {
+    "id": 187,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their time management often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 188,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nSara: Are we still meeting at the airport today?\nLama: Yes, but let's start 30 minutes earlier because of the reservation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the reservation",
+      "Because the airport is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the reservation."
+  },
+  {
+    "id": 189,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Sara practiced short reading passages every day. Over time, she became faster at finding key information.\n\nQuestion: What helped Sara improve?",
+    "choices": [
+      "Daily practice with short passages",
+      "Studying only grammar rules",
+      "Avoiding practice tests",
+      "Reading without a goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage directly mentions daily practice."
+  },
+  {
+    "id": 190,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nOmar: Are we still meeting at the classroom today?\nSara: Yes, but let's start 30 minutes earlier because of the exam.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the exam",
+      "Because the classroom is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the exam."
+  },
+  {
+    "id": 191,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Many cities invest in public transportation to reduce traffic and pollution. When buses and trains are reliable, more people leave their cars at home.\n\nQuestion: What is the main idea of the passage?",
+    "choices": [
+      "Cities invest in transport to reduce traffic and pollution.",
+      "Cars are faster than trains.",
+      "Pollution comes only from factories.",
+      "Traffic cannot be reduced."
+    ],
+    "correctIndex": 0,
+    "explanation": "It states cities invest in transportation to reduce traffic and pollution."
+  },
+  {
+    "id": 192,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nHuda: Are we still meeting at the station today?\nMaha: Yes, but let's start 30 minutes earlier because of the payment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the payment",
+      "Because the station is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the payment."
+  },
+  {
+    "id": 193,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: The museum was closed due to maintenance, but it will reopen next week with a new exhibit.\n\nQuestion: What can be inferred?",
+    "choices": [
+      "Visitors can return next week to see a new exhibit.",
+      "The museum will close permanently.",
+      "The exhibit was canceled.",
+      "Maintenance will take months."
+    ],
+    "correctIndex": 0,
+    "explanation": "Reopen next week implies visitors can return then."
+  },
+  {
+    "id": 194,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nWoman: The movie was better than I expected.\nMan: I heard the ending was confusing.\nWoman: It was, but the acting was great.\n\nQuestion: What does the woman think about the movie?",
+    "choices": [
+      "The acting was great although the ending was confusing.",
+      "The ending was perfect.",
+      "The acting was terrible.",
+      "She didn't watch it."
+    ],
+    "correctIndex": 0,
+    "explanation": "She praises the acting, notes confusing ending."
+  },
+  {
+    "id": 195,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Sara practiced short reading passages every day. Over time, she became faster at finding key information.\n\nQuestion: What helped Sara improve?",
+    "choices": [
+      "Daily practice with short passages",
+      "Studying only grammar rules",
+      "Avoiding practice tests",
+      "Reading without a goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage directly mentions daily practice."
+  },
+  {
+    "id": 196,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nTeacher: The quiz starts at 10, but please arrive 15 minutes early.\nStudent: So I should be there by 9:45.\n\nQuestion: What time should the student arrive?",
+    "choices": [
+      "9:45",
+      "10:00",
+      "10:15",
+      "9:30"
+    ],
+    "correctIndex": 0,
+    "explanation": "15 minutes early -> 9:45."
+  },
+  {
+    "id": 197,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Sara practiced short reading passages every day. Over time, she became faster at finding key information.\n\nQuestion: What helped Sara improve?",
+    "choices": [
+      "Daily practice with short passages",
+      "Studying only grammar rules",
+      "Avoiding practice tests",
+      "Reading without a goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage directly mentions daily practice."
+  },
+  {
+    "id": 198,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nOmar: Are we still meeting at the campus today?\nOmar: Yes, but let's start 30 minutes earlier because of the assignment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the assignment",
+      "Because the campus is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the assignment."
+  },
+  {
+    "id": 199,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Time management is crucial during standardized tests. Skimming first can help you understand the structure before answering details.\n\nQuestion: What is the recommended strategy?",
+    "choices": [
+      "Skim first to understand structure",
+      "Read every word slowly",
+      "Answer without reading",
+      "Skip the entire passage"
+    ],
+    "correctIndex": 0,
+    "explanation": "It recommends skimming first."
+  },
+  {
+    "id": 200,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMaha: Are we still meeting at the restaurant today?\nMaha: Yes, but let's start 30 minutes earlier because of the schedule.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the schedule",
+      "Because the restaurant is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the schedule."
+  },
+  {
+    "id": 201,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their listening focus often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 202,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nOmar: Are we still meeting at the station today?\nMaha: Yes, but let's start 30 minutes earlier because of the assignment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the assignment",
+      "Because the station is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the assignment."
+  },
+  {
+    "id": 203,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their practice often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 204,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nNoor: Are we still meeting at the clinic today?\nNoor: Yes, but let's start 30 minutes earlier because of the assignment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the assignment",
+      "Because the clinic is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the assignment."
+  },
+  {
+    "id": 205,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Some students learn vocabulary through context. Instead of memorizing lists, they notice how words are used in sentences.\n\nQuestion: The word 'context' is closest in meaning to:",
+    "choices": [
+      "situation",
+      "mistake",
+      "silence",
+      "request"
+    ],
+    "correctIndex": 0,
+    "explanation": "Context means the surrounding situation/words."
+  },
+  {
+    "id": 206,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nStudent: I missed yesterday’s lecture.\nProfessor: The slides are online, and we’ll review key points on Friday.\n\nQuestion: What should the student do?",
+    "choices": [
+      "Check the slides online and attend Friday’s review.",
+      "Wait for next semester.",
+      "Ignore the lecture.",
+      "Skip Friday."
+    ],
+    "correctIndex": 0,
+    "explanation": "That's what professor suggests."
+  },
+  {
+    "id": 207,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their time management often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 208,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nAli: Are we still meeting at the campus today?\nRayan: Yes, but let's start 30 minutes earlier because of the reservation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the reservation",
+      "Because the campus is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the reservation."
+  },
+  {
+    "id": 209,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Many cities invest in public transportation to reduce traffic and pollution. When buses and trains are reliable, more people leave their cars at home.\n\nQuestion: What is the main idea of the passage?",
+    "choices": [
+      "Cities invest in transport to reduce traffic and pollution.",
+      "Cars are faster than trains.",
+      "Pollution comes only from factories.",
+      "Traffic cannot be reduced."
+    ],
+    "correctIndex": 0,
+    "explanation": "It states cities invest in transportation to reduce traffic and pollution."
+  },
+  {
+    "id": 210,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nWoman: The movie was better than I expected.\nMan: I heard the ending was confusing.\nWoman: It was, but the acting was great.\n\nQuestion: What does the woman think about the movie?",
+    "choices": [
+      "The acting was great although the ending was confusing.",
+      "The ending was perfect.",
+      "The acting was terrible.",
+      "She didn't watch it."
+    ],
+    "correctIndex": 0,
+    "explanation": "She praises the acting, notes confusing ending."
+  },
+  {
+    "id": 211,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their time management often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 212,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nSara: Are we still meeting at the library today?\nHuda: Yes, but let's start 30 minutes earlier because of the materials.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the materials",
+      "Because the library is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the materials."
+  },
+  {
+    "id": 213,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Some students learn vocabulary through context. Instead of memorizing lists, they notice how words are used in sentences.\n\nQuestion: The word 'context' is closest in meaning to:",
+    "choices": [
+      "situation",
+      "mistake",
+      "silence",
+      "request"
+    ],
+    "correctIndex": 0,
+    "explanation": "Context means the surrounding situation/words."
+  },
+  {
+    "id": 214,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Did you finish the report?\nWoman: Not yet. I’ll send it before 6 p.m.\n\nQuestion: When will the woman send the report?",
+    "choices": [
+      "Before 6 p.m.",
+      "Tomorrow morning",
+      "At noon",
+      "After midnight"
+    ],
+    "correctIndex": 0,
+    "explanation": "She says she'll send it before 6 p.m."
+  },
+  {
+    "id": 215,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Sara practiced short reading passages every day. Over time, she became faster at finding key information.\n\nQuestion: What helped Sara improve?",
+    "choices": [
+      "Daily practice with short passages",
+      "Studying only grammar rules",
+      "Avoiding practice tests",
+      "Reading without a goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage directly mentions daily practice."
+  },
+  {
+    "id": 216,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct verb form: \"If she ____ earlier, she would have caught the bus.\"",
+    "choices": [
+      "left",
+      "leaves",
+      "had left",
+      "was leaving"
+    ],
+    "correctIndex": 2,
+    "explanation": "Third conditional uses 'had + past participle'."
+  },
+  {
+    "id": 217,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Did you finish the report?\nWoman: Not yet. I’ll send it before 6 p.m.\n\nQuestion: When will the woman send the report?",
+    "choices": [
+      "Before 6 p.m.",
+      "Tomorrow morning",
+      "At noon",
+      "After midnight"
+    ],
+    "correctIndex": 0,
+    "explanation": "She says she'll send it before 6 p.m."
+  },
+  {
+    "id": 218,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their time management often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 219,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"Hardly ____ when the phone rang.\"",
+    "choices": [
+      "I sat down",
+      "had I sat down",
+      "I had sat down",
+      "did I sat down"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inversion after 'hardly'."
+  },
+  {
+    "id": 220,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 221,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Many cities invest in public transportation to reduce traffic and pollution. When buses and trains are reliable, more people leave their cars at home.\n\nQuestion: What is the main idea of the passage?",
+    "choices": [
+      "Cities invest in transport to reduce traffic and pollution.",
+      "Cars are faster than trains.",
+      "Pollution comes only from factories.",
+      "Traffic cannot be reduced."
+    ],
+    "correctIndex": 0,
+    "explanation": "It states cities invest in transportation to reduce traffic and pollution."
+  },
+  {
+    "id": 222,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"By the time we arrived, the meeting ____ .\"",
+    "choices": [
+      "ends",
+      "had ended",
+      "has ended",
+      "ended"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past perfect fits 'by the time' in the past."
+  },
+  {
+    "id": 223,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nOmar: Are we still meeting at the campus today?\nFahad: Yes, but let's start 30 minutes earlier because of the deadline.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the deadline",
+      "Because the campus is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the deadline."
+  },
+  {
+    "id": 224,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Time management is crucial during standardized tests. Skimming first can help you understand the structure before answering details.\n\nQuestion: What is the recommended strategy?",
+    "choices": [
+      "Skim first to understand structure",
+      "Read every word slowly",
+      "Answer without reading",
+      "Skip the entire passage"
+    ],
+    "correctIndex": 0,
+    "explanation": "It recommends skimming first."
+  },
+  {
+    "id": 225,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct preposition: \"He is responsible ____ the project.\"",
+    "choices": [
+      "to",
+      "for",
+      "on",
+      "at"
+    ],
+    "correctIndex": 1,
+    "explanation": "The collocation is 'responsible for'."
+  },
+  {
+    "id": 226,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nStudent: I missed yesterday’s lecture.\nProfessor: The slides are online, and we’ll review key points on Friday.\n\nQuestion: What should the student do?",
+    "choices": [
+      "Check the slides online and attend Friday’s review.",
+      "Wait for next semester.",
+      "Ignore the lecture.",
+      "Skip Friday."
+    ],
+    "correctIndex": 0,
+    "explanation": "That's what professor suggests."
+  },
+  {
+    "id": 227,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Some students learn vocabulary through context. Instead of memorizing lists, they notice how words are used in sentences.\n\nQuestion: The word 'context' is closest in meaning to:",
+    "choices": [
+      "situation",
+      "mistake",
+      "silence",
+      "request"
+    ],
+    "correctIndex": 0,
+    "explanation": "Context means the surrounding situation/words."
+  },
+  {
+    "id": 228,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"Hardly ____ when the phone rang.\"",
+    "choices": [
+      "I sat down",
+      "had I sat down",
+      "I had sat down",
+      "did I sat down"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inversion after 'hardly'."
+  },
+  {
+    "id": 229,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMan: Did you finish the report?\nWoman: Not yet. I’ll send it before 6 p.m.\n\nQuestion: When will the woman send the report?",
+    "choices": [
+      "Before 6 p.m.",
+      "Tomorrow morning",
+      "At noon",
+      "After midnight"
+    ],
+    "correctIndex": 0,
+    "explanation": "She says she'll send it before 6 p.m."
+  },
+  {
+    "id": 230,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their listening focus often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 231,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"Hardly ____ when the phone rang.\"",
+    "choices": [
+      "I sat down",
+      "had I sat down",
+      "I had sat down",
+      "did I sat down"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inversion after 'hardly'."
+  },
+  {
+    "id": 232,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nOmar: Are we still meeting at the station today?\nNoor: Yes, but let's start 30 minutes earlier because of the presentation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the presentation",
+      "Because the station is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the presentation."
+  },
+  {
+    "id": 233,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: The museum was closed due to maintenance, but it will reopen next week with a new exhibit.\n\nQuestion: What can be inferred?",
+    "choices": [
+      "Visitors can return next week to see a new exhibit.",
+      "The museum will close permanently.",
+      "The exhibit was canceled.",
+      "Maintenance will take months."
+    ],
+    "correctIndex": 0,
+    "explanation": "Reopen next week implies visitors can return then."
+  },
+  {
+    "id": 234,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct article: \"She wants to buy ____ umbrella.\"",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 1,
+    "explanation": "Umbrella begins with a vowel sound -> 'an'."
+  },
+  {
+    "id": 235,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nStudent: I missed yesterday’s lecture.\nProfessor: The slides are online, and we’ll review key points on Friday.\n\nQuestion: What should the student do?",
+    "choices": [
+      "Check the slides online and attend Friday’s review.",
+      "Wait for next semester.",
+      "Ignore the lecture.",
+      "Skip Friday."
+    ],
+    "correctIndex": 0,
+    "explanation": "That's what professor suggests."
+  },
+  {
+    "id": 236,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Many cities invest in public transportation to reduce traffic and pollution. When buses and trains are reliable, more people leave their cars at home.\n\nQuestion: What is the main idea of the passage?",
+    "choices": [
+      "Cities invest in transport to reduce traffic and pollution.",
+      "Cars are faster than trains.",
+      "Pollution comes only from factories.",
+      "Traffic cannot be reduced."
+    ],
+    "correctIndex": 0,
+    "explanation": "It states cities invest in transportation to reduce traffic and pollution."
+  },
+  {
+    "id": 237,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"The number of applicants ____ increasing.\"",
+    "choices": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctIndex": 1,
+    "explanation": "'The number' is singular -> is."
+  },
+  {
+    "id": 238,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nKhalid: Are we still meeting at the meeting room today?\nRayan: Yes, but let's start 30 minutes earlier because of the schedule.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the schedule",
+      "Because the meeting room is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the schedule."
+  },
+  {
+    "id": 239,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their time management often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 240,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"This is the book ____ I told you about.\"",
+    "choices": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relative pronoun for things -> which/that."
+  },
+  {
+    "id": 241,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nStudent: I missed yesterday’s lecture.\nProfessor: The slides are online, and we’ll review key points on Friday.\n\nQuestion: What should the student do?",
+    "choices": [
+      "Check the slides online and attend Friday’s review.",
+      "Wait for next semester.",
+      "Ignore the lecture.",
+      "Skip Friday."
+    ],
+    "correctIndex": 0,
+    "explanation": "That's what professor suggests."
+  },
+  {
+    "id": 242,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Some students learn vocabulary through context. Instead of memorizing lists, they notice how words are used in sentences.\n\nQuestion: The word 'context' is closest in meaning to:",
+    "choices": [
+      "situation",
+      "mistake",
+      "silence",
+      "request"
+    ],
+    "correctIndex": 0,
+    "explanation": "Context means the surrounding situation/words."
+  },
+  {
+    "id": 243,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"By the time we arrived, the meeting ____ .\"",
+    "choices": [
+      "ends",
+      "had ended",
+      "has ended",
+      "ended"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past perfect fits 'by the time' in the past."
+  },
+  {
+    "id": 244,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMaha: Are we still meeting at the clinic today?\nMaha: Yes, but let's start 30 minutes earlier because of the deadline.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the deadline",
+      "Because the clinic is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the deadline."
+  },
+  {
+    "id": 245,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Sara practiced short reading passages every day. Over time, she became faster at finding key information.\n\nQuestion: What helped Sara improve?",
+    "choices": [
+      "Daily practice with short passages",
+      "Studying only grammar rules",
+      "Avoiding practice tests",
+      "Reading without a goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage directly mentions daily practice."
+  },
+  {
+    "id": 246,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"Neither of the students ____ finished the assignment.\"",
+    "choices": [
+      "have",
+      "has",
+      "having",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "With 'neither of', the verb is singular."
+  },
+  {
+    "id": 247,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nNoor: Are we still meeting at the meeting room today?\nLama: Yes, but let's start 30 minutes earlier because of the deadline.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the deadline",
+      "Because the meeting room is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the deadline."
+  },
+  {
+    "id": 248,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their time management often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 249,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"Neither of the students ____ finished the assignment.\"",
+    "choices": [
+      "have",
+      "has",
+      "having",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "With 'neither of', the verb is singular."
+  },
+  {
+    "id": 250,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMaha: Are we still meeting at the clinic today?\nKhalid: Yes, but let's start 30 minutes earlier because of the deadline.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the deadline",
+      "Because the clinic is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the deadline."
+  },
+  {
+    "id": 251,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: The museum was closed due to maintenance, but it will reopen next week with a new exhibit.\n\nQuestion: What can be inferred?",
+    "choices": [
+      "Visitors can return next week to see a new exhibit.",
+      "The museum will close permanently.",
+      "The exhibit was canceled.",
+      "Maintenance will take months."
+    ],
+    "correctIndex": 0,
+    "explanation": "Reopen next week implies visitors can return then."
+  },
+  {
+    "id": 252,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"The number of applicants ____ increasing.\"",
+    "choices": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctIndex": 1,
+    "explanation": "'The number' is singular -> is."
+  },
+  {
+    "id": 253,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nHuda: Are we still meeting at the station today?\nAli: Yes, but let's start 30 minutes earlier because of the materials.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the materials",
+      "Because the station is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the materials."
+  },
+  {
+    "id": 254,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Time management is crucial during standardized tests. Skimming first can help you understand the structure before answering details.\n\nQuestion: What is the recommended strategy?",
+    "choices": [
+      "Skim first to understand structure",
+      "Read every word slowly",
+      "Answer without reading",
+      "Skip the entire passage"
+    ],
+    "correctIndex": 0,
+    "explanation": "It recommends skimming first."
+  },
+  {
+    "id": 255,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"By the time we arrived, the meeting ____ .\"",
+    "choices": [
+      "ends",
+      "had ended",
+      "has ended",
+      "ended"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past perfect fits 'by the time' in the past."
+  },
+  {
+    "id": 256,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nWoman: The movie was better than I expected.\nMan: I heard the ending was confusing.\nWoman: It was, but the acting was great.\n\nQuestion: What does the woman think about the movie?",
+    "choices": [
+      "The acting was great although the ending was confusing.",
+      "The ending was perfect.",
+      "The acting was terrible.",
+      "She didn't watch it."
+    ],
+    "correctIndex": 0,
+    "explanation": "She praises the acting, notes confusing ending."
+  },
+  {
+    "id": 257,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Time management is crucial during standardized tests. Skimming first can help you understand the structure before answering details.\n\nQuestion: What is the recommended strategy?",
+    "choices": [
+      "Skim first to understand structure",
+      "Read every word slowly",
+      "Answer without reading",
+      "Skip the entire passage"
+    ],
+    "correctIndex": 0,
+    "explanation": "It recommends skimming first."
+  },
+  {
+    "id": 258,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"I look forward to ____ from you soon.\"",
+    "choices": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanation": "After 'look forward to' use gerund."
+  },
+  {
+    "id": 259,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nOmar: Are we still meeting at the campus today?\nRayan: Yes, but let's start 30 minutes earlier because of the exam.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the exam",
+      "Because the campus is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the exam."
+  },
+  {
+    "id": 260,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their grammar review often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 261,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"The report ____ by the committee yesterday.\"",
+    "choices": [
+      "was approved",
+      "approved",
+      "is approving",
+      "has approve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive voice in past simple."
+  },
+  {
+    "id": 262,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nFahad: Are we still meeting at the office today?\nKhalid: Yes, but let's start 30 minutes earlier because of the assignment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the assignment",
+      "Because the office is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the assignment."
+  },
+  {
+    "id": 263,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Sara practiced short reading passages every day. Over time, she became faster at finding key information.\n\nQuestion: What helped Sara improve?",
+    "choices": [
+      "Daily practice with short passages",
+      "Studying only grammar rules",
+      "Avoiding practice tests",
+      "Reading without a goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage directly mentions daily practice."
+  },
+  {
+    "id": 264,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"Hardly ____ when the phone rang.\"",
+    "choices": [
+      "I sat down",
+      "had I sat down",
+      "I had sat down",
+      "did I sat down"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inversion after 'hardly'."
+  },
+  {
+    "id": 265,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nStudent: I missed yesterday’s lecture.\nProfessor: The slides are online, and we’ll review key points on Friday.\n\nQuestion: What should the student do?",
+    "choices": [
+      "Check the slides online and attend Friday’s review.",
+      "Wait for next semester.",
+      "Ignore the lecture.",
+      "Skip Friday."
+    ],
+    "correctIndex": 0,
+    "explanation": "That's what professor suggests."
+  },
+  {
+    "id": 266,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Many cities invest in public transportation to reduce traffic and pollution. When buses and trains are reliable, more people leave their cars at home.\n\nQuestion: What is the main idea of the passage?",
+    "choices": [
+      "Cities invest in transport to reduce traffic and pollution.",
+      "Cars are faster than trains.",
+      "Pollution comes only from factories.",
+      "Traffic cannot be reduced."
+    ],
+    "correctIndex": 0,
+    "explanation": "It states cities invest in transportation to reduce traffic and pollution."
+  },
+  {
+    "id": 267,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"The report ____ by the committee yesterday.\"",
+    "choices": [
+      "was approved",
+      "approved",
+      "is approving",
+      "has approve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive voice in past simple."
+  },
+  {
+    "id": 268,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMan: Did you finish the report?\nWoman: Not yet. I’ll send it before 6 p.m.\n\nQuestion: When will the woman send the report?",
+    "choices": [
+      "Before 6 p.m.",
+      "Tomorrow morning",
+      "At noon",
+      "After midnight"
+    ],
+    "correctIndex": 0,
+    "explanation": "She says she'll send it before 6 p.m."
+  },
+  {
+    "id": 269,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Some students learn vocabulary through context. Instead of memorizing lists, they notice how words are used in sentences.\n\nQuestion: The word 'context' is closest in meaning to:",
+    "choices": [
+      "situation",
+      "mistake",
+      "silence",
+      "request"
+    ],
+    "correctIndex": 0,
+    "explanation": "Context means the surrounding situation/words."
+  },
+  {
+    "id": 270,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct preposition: \"He is responsible ____ the project.\"",
+    "choices": [
+      "to",
+      "for",
+      "on",
+      "at"
+    ],
+    "correctIndex": 1,
+    "explanation": "The collocation is 'responsible for'."
+  },
+  {
+    "id": 271,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nWoman: The movie was better than I expected.\nMan: I heard the ending was confusing.\nWoman: It was, but the acting was great.\n\nQuestion: What does the woman think about the movie?",
+    "choices": [
+      "The acting was great although the ending was confusing.",
+      "The ending was perfect.",
+      "The acting was terrible.",
+      "She didn't watch it."
+    ],
+    "correctIndex": 0,
+    "explanation": "She praises the acting, notes confusing ending."
+  },
+  {
+    "id": 272,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Some students learn vocabulary through context. Instead of memorizing lists, they notice how words are used in sentences.\n\nQuestion: The word 'context' is closest in meaning to:",
+    "choices": [
+      "situation",
+      "mistake",
+      "silence",
+      "request"
+    ],
+    "correctIndex": 0,
+    "explanation": "Context means the surrounding situation/words."
+  },
+  {
+    "id": 273,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct preposition: \"He is responsible ____ the project.\"",
+    "choices": [
+      "to",
+      "for",
+      "on",
+      "at"
+    ],
+    "correctIndex": 1,
+    "explanation": "The collocation is 'responsible for'."
+  },
+  {
+    "id": 274,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nLama: Are we still meeting at the office today?\nLama: Yes, but let's start 30 minutes earlier because of the reservation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the reservation",
+      "Because the office is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the reservation."
+  },
+  {
+    "id": 275,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Time management is crucial during standardized tests. Skimming first can help you understand the structure before answering details.\n\nQuestion: What is the recommended strategy?",
+    "choices": [
+      "Skim first to understand structure",
+      "Read every word slowly",
+      "Answer without reading",
+      "Skip the entire passage"
+    ],
+    "correctIndex": 0,
+    "explanation": "It recommends skimming first."
+  },
+  {
+    "id": 276,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"The report ____ by the committee yesterday.\"",
+    "choices": [
+      "was approved",
+      "approved",
+      "is approving",
+      "has approve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive voice in past simple."
+  },
+  {
+    "id": 277,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMaha: Are we still meeting at the restaurant today?\nNoor: Yes, but let's start 30 minutes earlier because of the schedule.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the schedule",
+      "Because the restaurant is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the schedule."
+  },
+  {
+    "id": 278,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their listening focus often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 279,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"The number of applicants ____ increasing.\"",
+    "choices": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctIndex": 1,
+    "explanation": "'The number' is singular -> is."
+  },
+  {
+    "id": 280,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nAli: Are we still meeting at the airport today?\nMaha: Yes, but let's start 30 minutes earlier because of the exam.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the exam",
+      "Because the airport is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the exam."
+  },
+  {
+    "id": 281,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their time management often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 282,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct article: \"She wants to buy ____ umbrella.\"",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 1,
+    "explanation": "Umbrella begins with a vowel sound -> 'an'."
+  },
+  {
+    "id": 283,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nKhalid: Are we still meeting at the library today?\nNoor: Yes, but let's start 30 minutes earlier because of the reservation.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the reservation",
+      "Because the library is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the reservation."
+  },
+  {
+    "id": 284,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their reading speed often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 285,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct verb form: \"If she ____ earlier, she would have caught the bus.\"",
+    "choices": [
+      "left",
+      "leaves",
+      "had left",
+      "was leaving"
+    ],
+    "correctIndex": 2,
+    "explanation": "Third conditional uses 'had + past participle'."
+  },
+  {
+    "id": 286,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nWoman: The movie was better than I expected.\nMan: I heard the ending was confusing.\nWoman: It was, but the acting was great.\n\nQuestion: What does the woman think about the movie?",
+    "choices": [
+      "The acting was great although the ending was confusing.",
+      "The ending was perfect.",
+      "The acting was terrible.",
+      "She didn't watch it."
+    ],
+    "correctIndex": 0,
+    "explanation": "She praises the acting, notes confusing ending."
+  },
+  {
+    "id": 287,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their time management often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 288,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"Neither of the students ____ finished the assignment.\"",
+    "choices": [
+      "have",
+      "has",
+      "having",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "With 'neither of', the verb is singular."
+  },
+  {
+    "id": 289,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nNoor: Are we still meeting at the restaurant today?\nSara: Yes, but let's start 30 minutes earlier because of the deadline.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the deadline",
+      "Because the restaurant is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the deadline."
+  },
+  {
+    "id": 290,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Sara practiced short reading passages every day. Over time, she became faster at finding key information.\n\nQuestion: What helped Sara improve?",
+    "choices": [
+      "Daily practice with short passages",
+      "Studying only grammar rules",
+      "Avoiding practice tests",
+      "Reading without a goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage directly mentions daily practice."
+  },
+  {
+    "id": 291,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"I look forward to ____ from you soon.\"",
+    "choices": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanation": "After 'look forward to' use gerund."
+  },
+  {
+    "id": 292,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nStudent: I missed yesterday’s lecture.\nProfessor: The slides are online, and we’ll review key points on Friday.\n\nQuestion: What should the student do?",
+    "choices": [
+      "Check the slides online and attend Friday’s review.",
+      "Wait for next semester.",
+      "Ignore the lecture.",
+      "Skip Friday."
+    ],
+    "correctIndex": 0,
+    "explanation": "That's what professor suggests."
+  },
+  {
+    "id": 293,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their listening focus often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 294,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct verb form: \"If she ____ earlier, she would have caught the bus.\"",
+    "choices": [
+      "left",
+      "leaves",
+      "had left",
+      "was leaving"
+    ],
+    "correctIndex": 2,
+    "explanation": "Third conditional uses 'had + past participle'."
+  },
+  {
+    "id": 295,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nTeacher: The quiz starts at 10, but please arrive 15 minutes early.\nStudent: So I should be there by 9:45.\n\nQuestion: What time should the student arrive?",
+    "choices": [
+      "9:45",
+      "10:00",
+      "10:15",
+      "9:30"
+    ],
+    "correctIndex": 0,
+    "explanation": "15 minutes early -> 9:45."
+  },
+  {
+    "id": 296,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Many cities invest in public transportation to reduce traffic and pollution. When buses and trains are reliable, more people leave their cars at home.\n\nQuestion: What is the main idea of the passage?",
+    "choices": [
+      "Cities invest in transport to reduce traffic and pollution.",
+      "Cars are faster than trains.",
+      "Pollution comes only from factories.",
+      "Traffic cannot be reduced."
+    ],
+    "correctIndex": 0,
+    "explanation": "It states cities invest in transportation to reduce traffic and pollution."
+  },
+  {
+    "id": 297,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"The report ____ by the committee yesterday.\"",
+    "choices": [
+      "was approved",
+      "approved",
+      "is approving",
+      "has approve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive voice in past simple."
+  },
+  {
+    "id": 298,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 299,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their mock tests often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 300,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct preposition: \"He is responsible ____ the project.\"",
+    "choices": [
+      "to",
+      "for",
+      "on",
+      "at"
+    ],
+    "correctIndex": 1,
+    "explanation": "The collocation is 'responsible for'."
+  },
+  {
+    "id": 301,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Did you finish the report?\nWoman: Not yet. I’ll send it before 6 p.m.\n\nQuestion: When will the woman send the report?",
+    "choices": [
+      "Before 6 p.m.",
+      "Tomorrow morning",
+      "At noon",
+      "After midnight"
+    ],
+    "correctIndex": 0,
+    "explanation": "She says she'll send it before 6 p.m."
+  },
+  {
+    "id": 302,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their listening focus often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 303,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"The number of applicants ____ increasing.\"",
+    "choices": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctIndex": 1,
+    "explanation": "'The number' is singular -> is."
+  },
+  {
+    "id": 304,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nAli: Are we still meeting at the lab today?\nLama: Yes, but let's start 30 minutes earlier because of the assignment.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the assignment",
+      "Because the lab is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the assignment."
+  },
+  {
+    "id": 305,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Sara practiced short reading passages every day. Over time, she became faster at finding key information.\n\nQuestion: What helped Sara improve?",
+    "choices": [
+      "Daily practice with short passages",
+      "Studying only grammar rules",
+      "Avoiding practice tests",
+      "Reading without a goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage directly mentions daily practice."
+  },
+  {
+    "id": 306,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct article: \"he wants to buy ____ umbrella.\"",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 1,
+    "explanation": "Umbrella begins with a vowel sound -> 'an'."
+  },
+  {
+    "id": 307,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nHuda: Are we still meeting at the classroom today?\nFahad: Yes, but let's start 30 minutes earlier because of the schedule.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the schedule",
+      "Because the classroom is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the schedule."
+  },
+  {
+    "id": 308,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Many cities invest in public transportation to reduce traffic and pollution. When buses and trains are reliable, more people leave their cars at home.\n\nQuestion: What is the main idea of the passage?",
+    "choices": [
+      "Cities invest in transport to reduce traffic and pollution.",
+      "Cars are faster than trains.",
+      "Pollution comes only from factories.",
+      "Traffic cannot be reduced."
+    ],
+    "correctIndex": 0,
+    "explanation": "It states cities invest in transportation to reduce traffic and pollution."
+  },
+  {
+    "id": 309,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"Hardly ____ when the phone rang.\"",
+    "choices": [
+      "I sat down",
+      "had I sat down",
+      "I had sat down",
+      "did I sat down"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inversion after 'hardly'."
+  },
+  {
+    "id": 310,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nStudent: I missed yesterday’s lecture.\nProfessor: The slides are online, and we’ll review key points on Friday.\n\nQuestion: What should the student do?",
+    "choices": [
+      "Check the slides online and attend Friday’s review.",
+      "Wait for next semester.",
+      "Ignore the lecture.",
+      "Skip Friday."
+    ],
+    "correctIndex": 0,
+    "explanation": "That's what professor suggests."
+  },
+  {
+    "id": 311,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: The museum was closed due to maintenance, but it will reopen next week with a new exhibit.\n\nQuestion: What can be inferred?",
+    "choices": [
+      "Visitors can return next week to see a new exhibit.",
+      "The museum will close permanently.",
+      "The exhibit was canceled.",
+      "Maintenance will take months."
+    ],
+    "correctIndex": 0,
+    "explanation": "Reopen next week implies visitors can return then."
+  },
+  {
+    "id": 312,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"By the time we arrived, the meeting ____ .\"",
+    "choices": [
+      "ends",
+      "had ended",
+      "has ended",
+      "ended"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past perfect fits 'by the time' in the past."
+  },
+  {
+    "id": 313,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 314,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Many cities invest in public transportation to reduce traffic and pollution. When buses and trains are reliable, more people leave their cars at home.\n\nQuestion: What is the main idea of the passage?",
+    "choices": [
+      "Cities invest in transport to reduce traffic and pollution.",
+      "Cars are faster than trains.",
+      "Pollution comes only from factories.",
+      "Traffic cannot be reduced."
+    ],
+    "correctIndex": 0,
+    "explanation": "It states cities invest in transportation to reduce traffic and pollution."
+  },
+  {
+    "id": 315,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"Neither of the students ____ finished the assignment.\"",
+    "choices": [
+      "have",
+      "has",
+      "having",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "With 'neither of', the verb is singular."
+  },
+  {
+    "id": 316,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nRayan: Are we still meeting at the restaurant today?\nNoor: Yes, but let's start 30 minutes earlier because of the materials.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the materials",
+      "Because the restaurant is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the materials."
+  },
+  {
+    "id": 317,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Students who improve their listening focus often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 318,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct verb form: \"If she ____ earlier, she would have caught the bus.\"",
+    "choices": [
+      "left",
+      "leaves",
+      "had left",
+      "was leaving"
+    ],
+    "correctIndex": 2,
+    "explanation": "Third conditional uses 'had + past participle'."
+  },
+  {
+    "id": 319,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 320,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Many cities invest in public transportation to reduce traffic and pollution. When buses and trains are reliable, more people leave their cars at home.\n\nQuestion: What is the main idea of the passage?",
+    "choices": [
+      "Cities invest in transport to reduce traffic and pollution.",
+      "Cars are faster than trains.",
+      "Pollution comes only from factories.",
+      "Traffic cannot be reduced."
+    ],
+    "correctIndex": 0,
+    "explanation": "It states cities invest in transportation to reduce traffic and pollution."
+  },
+  {
+    "id": 321,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct verb form: \"If she ____ earlier, she would have caught the bus.\"",
+    "choices": [
+      "left",
+      "leaves",
+      "had left",
+      "was leaving"
+    ],
+    "correctIndex": 2,
+    "explanation": "Third conditional uses 'had + past participle'."
+  },
+  {
+    "id": 322,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMaha: Are we still meeting at the station today?\nMaha: Yes, but let's start 30 minutes earlier because of the practice.\n\nQuestion: Why do they want to start earlier?",
+    "choices": [
+      "Because of the practice",
+      "Because the station is closed",
+      "Because it is raining",
+      "Because they finished already"
+    ],
+    "correctIndex": 0,
+    "explanation": "He says start earlier because of the practice."
+  },
+  {
+    "id": 323,
+    "section": "Reading",
+    "difficulty": "Medium",
+    "prompt": "Passage: Time management is crucial during standardized tests. Skimming first can help you understand the structure before answering details.\n\nQuestion: What is the recommended strategy?",
+    "choices": [
+      "Skim first to understand structure",
+      "Read every word slowly",
+      "Answer without reading",
+      "Skip the entire passage"
+    ],
+    "correctIndex": 0,
+    "explanation": "It recommends skimming first."
+  },
+  {
+    "id": 324,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct option: \"By the time we arrived, the meeting ____ .\"",
+    "choices": [
+      "ends",
+      "had ended",
+      "has ended",
+      "ended"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past perfect fits 'by the time' in the past."
+  },
+  {
+    "id": 325,
+    "section": "Listening",
+    "difficulty": "Hard",
+    "prompt": "Listening (transcript):\nMan: Are we meeting in room 204?\nWoman: It changed to 402 because 204 is being cleaned.\n\nQuestion: Why was the room changed?",
+    "choices": [
+      "Room 204 is being cleaned.",
+      "Room 402 is smaller.",
+      "Room 204 has no chairs.",
+      "Room 402 is closed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stated directly."
+  },
+  {
+    "id": 326,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their grammar review often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 327,
+    "section": "Grammar",
+    "difficulty": "Hard",
+    "prompt": "Choose the correct verb form: \"If she ____ earlier, she would have caught the bus.\"",
+    "choices": [
+      "left",
+      "leaves",
+      "had left",
+      "was leaving"
+    ],
+    "correctIndex": 2,
+    "explanation": "Third conditional uses 'had + past participle'."
+  },
+  {
+    "id": 328,
+    "section": "Listening",
+    "difficulty": "Medium",
+    "prompt": "Listening (transcript):\nTeacher: The quiz starts at 10, but please arrive 15 minutes early.\nStudent: So I should be there by 9:45.\n\nQuestion: What time should the student arrive?",
+    "choices": [
+      "9:45",
+      "10:00",
+      "10:15",
+      "9:30"
+    ],
+    "correctIndex": 0,
+    "explanation": "15 minutes early -> 9:45."
+  },
+  {
+    "id": 329,
+    "section": "Reading",
+    "difficulty": "Hard",
+    "prompt": "Passage: Students who improve their grammar review often see better results. Small daily sessions can be more effective than studying for many hours once a week.\n\nQuestion: What does the passage suggest?",
+    "choices": [
+      "Short daily study sessions can be effective.",
+      "Studying once a week is best.",
+      "Only long sessions work.",
+      "Improvement is impossible."
+    ],
+    "correctIndex": 0,
+    "explanation": "It suggests small daily sessions can be more effective."
+  },
+  {
+    "id": 330,
+    "section": "Grammar",
+    "difficulty": "Medium",
+    "prompt": "Choose the correct option: \"The report ____ by the committee yesterday.\"",
+    "choices": [
+      "was approved",
+      "approved",
+      "is approving",
+      "has approve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive voice in past simple."
+  }
+]
